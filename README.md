@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aashish Kumar</h1>
-<h3 align="center">A passionate full stack web developer</h3>
+<h3 align="center">A passionate  Skilled and result-oriented full-stack developer with an expertise in MERN stack. Focused and curious, with a keen interest in building creative web applications</h3>
 
 - 🌱 I’m currently learning **MERN Stack**
 
