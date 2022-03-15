@@ -21,4 +21,4 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="100" height="50" /></a>
 </p>
 
-<p align="center" ; "><img align="center " src="https://github-readme-stats.vercel.app/api/top-langs?username=aashishkumar321&show_icons=true&locale=en&layout=compact " alt="aashishkumar321 " /></p>
+<!-- <p align="center" ; "><img align="center " src="https://github-readme-stats.vercel.app/api/top-langs?username=aashishkumar321&show_icons=true&locale=en&layout=compact " alt="aashishkumar321 " /></p> -->
