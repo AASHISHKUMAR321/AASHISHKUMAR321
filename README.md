@@ -20,6 +20,6 @@
     <a href="https://linkedin.com/in/aashish-kumar-bba836190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashish-kumar-bba836190" height="30" width="40" /></a>
     <a href="https://twitter.com/aashish8118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/aashish8118" height="30" width="40" /></a>
 </p>
-<!-- 👨‍💻 All of my projects are available at https://youthful-euclid-ce86da.netlify.app/ -->
+👨‍💻 All of my projects are available at https://modest-tereshkova-6f0800.netlify.app/
 
 <!-- <p align="center" ; "><img align="center " src="https://github-readme-stats.vercel.app/api/top-langs?username=aashishkumar321&show_icons=true&locale=en&layout=compact " alt="aashishkumar321 " /></p> -->
