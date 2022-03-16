@@ -19,7 +19,7 @@
 <p align="center">
     <a href="https://linkedin.com/in/aashish-kumar-bba836190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashish-kumar-bba836190" height="30" width="40" /></a>
     <a href="https://twitter.com/aashish8118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/aashish8118" height="30" width="40" /></a>
-    <a href="aashish.kumar.ak143@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/external-nawicon-outline-color-nawicon/2x/external-email-communication-nawicon-outline-color-nawicon-2.png" alt="https://twitter.com/aashish8118" height="30" width="40" /></a>
+    <a href="mailto:aashish.kumar.ak143@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/external-nawicon-outline-color-nawicon/2x/external-email-communication-nawicon-outline-color-nawicon-2.png" alt="https://twitter.com/aashish8118" height="30" width="40" /></a>
 </p>
 👨‍💻 All of my projects are available at https://modest-tereshkova-6f0800.netlify.app/
 
