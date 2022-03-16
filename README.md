@@ -19,5 +19,6 @@
 <p align="center">
     <a href="https://linkedin.com/in/aashish-kumar-bba836190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashish-kumar-bba836190" height="30" width="40" /></a>
 </p>
+👨‍💻 All of my projects are available at https://youthful-euclid-ce86da.netlify.app/
 
 <!-- <p align="center" ; "><img align="center " src="https://github-readme-stats.vercel.app/api/top-langs?username=aashishkumar321&show_icons=true&locale=en&layout=compact " alt="aashishkumar321 " /></p> -->
