@@ -10,17 +10,28 @@
 <!-- 🌱 I’m currently learning **MERN Stack** -->
 <!-- https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif -->
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="100" height="50" /></a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="100" height="50" /></a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100" height="50" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" /></a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="100" height="50" /></a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="100" height="50" /></a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="100" height="50" /></a>
-</p>
+
+<p align=center>
+<img src="https://img.shields.io/badge/-javaScript-FF0000?style=for-the-badge&logo=javascript" height="30px" />
+ <img src="https://img.shields.io/badge/-Express-FF0000?style=for-the-badge&logo=express" height="30px"/>
+  <img src="https://img.shields.io/badge/-React-FF0000?style=for-the-badge&logo=react" height="30px"/>
+    <img src="https://img.shields.io/badge/-Node Js-FF0000?style=for-the-badge&logo=node.js" height="30px"/>
+    <img src="https://img.shields.io/badge/-Mongo Db-FF0000?style=for-the-badge&logo=mongodb" height="30px"/>
+    <img src="https://img.shields.io/badge/-HTML-FF0000?style=for-the-badge&logo=html5" height="30px"/>
+     <img src="https://img.shields.io/badge/-css-FF0000?style=for-the-badge&logo=css" height="30px"/>
+
+
+
+<!-- <img src="https://img.shields.io/badge/-HTML5-007FFF?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/-CSS-0000FF?style=for-the-badge&logo=css3"/> -->
+
+<!--END_SECTION:colourise-->
+
+
+
+
+
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="https://linkedin.com/in/aashish-kumar-bba836190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashish-kumar-bba836190" height="30" width="40" /></a>
