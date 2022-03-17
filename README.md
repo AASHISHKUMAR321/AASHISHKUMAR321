@@ -9,7 +9,7 @@
 
 <!-- 🌱 I’m currently learning **MERN Stack** -->
 <!-- https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif -->
-
+<h1 align="center">Languages and Tools:</h1>
 
 <p align=center>
 <img src="https://img.shields.io/badge/-javaScript-FF0000?style=for-the-badge&logo=javascript" height="30px" />
