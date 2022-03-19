@@ -42,6 +42,6 @@
     <a href="https://twitter.com/aashish8118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/aashish8118" height="30" width="40" /></a>
     <a href="mailto:aashish.kumar.ak143@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/external-nawicon-outline-color-nawicon/2x/external-email-communication-nawicon-outline-color-nawicon-2.png" alt="https://twitter.com/aashish8118" height="30" width="40" /></a>
 </p>
-👨‍💻 All of my projects are available at https://aashishkumar321.netlify.app/
+<h1>All of my projects are available at</h1> https://aashishkumar321.netlify.app/
 
 <!-- <p align="center" ; "><img align="center " src="https://github-readme-stats.vercel.app/api/top-langs?username=aashishkumar321&show_icons=true&locale=en&layout=compact " alt="aashishkumar321 " /></p> -->
