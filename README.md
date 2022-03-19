@@ -5,7 +5,7 @@
 <!--   ![](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif) -->
 
 <h1 align="center">About Me</h1>
-<h4 align="center">A passionate Skilled and result-oriented full-stack Web developer with an expertise in MERN stack. Focused and curious, with a keen interest in building creative web applications</h4>
+<h3 align="center">A passionate Skilled and result-oriented full-stack Web developer with an expertise in MERN stack. Focused and curious, with a keen interest in building creative web applications</h3>
 
 <!-- 🌱 I’m currently learning **MERN Stack** -->
 <!-- https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif -->
