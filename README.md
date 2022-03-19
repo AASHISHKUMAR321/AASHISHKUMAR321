@@ -15,10 +15,14 @@
 <img src="https://img.shields.io/badge/-javaScript-FF0000?style=for-the-badge&logo=javascript" height="40px" />
  <img src="https://img.shields.io/badge/-Express-FF0000?style=for-the-badge&logo=express" height="40px"/>
   <img src="https://img.shields.io/badge/-React-FF0000?style=for-the-badge&logo=react" height="40px"/>
+ <img src="https://img.shields.io/badge/-Redux-FF0000?style=for-the-badge&logo=redux" height="40px"/>
     <img src="https://img.shields.io/badge/-Node Js-FF0000?style=for-the-badge&logo=node.js" height="40px"/>
     <img src="https://img.shields.io/badge/-Mongo Db-FF0000?style=for-the-badge&logo=mongodb" height="40px"/>
     <img src="https://img.shields.io/badge/-HTML-FF0000?style=for-the-badge&logo=html5" height="40px"/>
      <img src="https://img.shields.io/badge/-css-FF0000?style=for-the-badge&logo=css" height="40px"/>
+  <img src="https://img.shields.io/badge/-npm-FF0000?style=for-the-badge&logo=npm" height="40px"/>
+ <img src="https://img.shields.io/badge/-Git-FF0000?style=for-the-badge&logo=git" height="40px"/>
+ <img src="https://img.shields.io/badge/-Postman-FF0000?style=for-the-badge&logo=postman" height="40px"/>
 
 
 
