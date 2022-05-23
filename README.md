@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aashish Kumar</h1>
 <p align="center">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="90%" height="300" align="center"/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" height="300" align="center"/>
 </p>
 <!--   ![](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif) -->
 
